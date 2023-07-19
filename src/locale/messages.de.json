@@ -1,0 +1,26 @@
+{
+  "locale": "de",
+  "translations": {
+    "1063530108378807150": "Angular verstehen",
+    "7723084669342910030": " Alarmmeldung auslösen\n",
+    "1634784137144279646": " Sie können meine Farbe in der Komponente festlegen!\n",
+    "3628953179342697199": "Meine Farbe ist {$INTERPOLATION}",
+    "903698715562631272": "blau",
+    "5408573204593694711": "Hallo, Welt",
+    "3318990525572050896": "Hallo Welt: Abhängigkeitsinjektion",
+    "3966581580086893709": "Log mich!",
+    "5455843538607587281": "Öffnen Sie unbedingt die Konsole, um die Ausgabe anzuzeigen!",
+    "2516094558146885321": "Hallo, Welt!",
+    "1765045259586467996": "Hallo Welt!: ngIf!",
+    "6532150903355593667": "Machen Sie Text bearbeitbar!",
+    "1563588178785106612": "Sie können den folgenden Absatz bearbeiten.",
+    "6489457399827750017": "Der folgende Absatz ist schreibgeschützt. Versuchen Sie, auf die Schaltfläche zu klicken!",
+    "5570720392307884762": "Ich bin schreibgeschützt!",
+    "1686127090889423048": "Du kannst mich bearbeiten!",
+    "657776429111909263": "Hallo Welt Vorlage",
+    "1354793247115644980": " Machen Sie Text bearbeitbar! ",
+    "497998566429261385": "Ich bin schreibgeschützt!",
+    "4584092443788135411": "Hallo Welt",
+    "8746094620129519683": "Das ist meine erste Komponente!"
+  }
+}

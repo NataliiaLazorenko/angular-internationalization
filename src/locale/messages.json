@@ -1,0 +1,26 @@
+{
+  "locale": "en-US",
+  "translations": {
+    "1063530108378807150": "Understanding Angular",
+    "7723084669342910030": " Trigger alert message\n",
+    "1634784137144279646": " You can set my color in the component!\n",
+    "3628953179342697199": "My color is {$INTERPOLATION}",
+    "903698715562631272": "blue",
+    "5408573204593694711": "Hello, World",
+    "3318990525572050896": "Hello World: Dependency Injection",
+    "3966581580086893709": "Log me!",
+    "5455843538607587281": "Be sure to open the console to view the output!",
+    "2516094558146885321": "Hello, World!",
+    "1765045259586467996": "Hello World: ngIf!",
+    "6532150903355593667": "Make text editable!",
+    "1563588178785106612": "You can edit the following paragraph.",
+    "6489457399827750017": "The following paragraph is read only. Try clicking the button!",
+    "5570720392307884762": "I'm read only!",
+    "1686127090889423048": "You can edit me!",
+    "657776429111909263": "Hello World Template",
+    "1354793247115644980": " Make text editable! ",
+    "497998566429261385": "I am read only!",
+    "4584092443788135411": "Hello World",
+    "8746094620129519683": "This is my first component!"
+  }
+}
