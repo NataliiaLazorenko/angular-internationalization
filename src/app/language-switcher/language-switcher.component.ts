@@ -5,10 +5,11 @@ import { Component } from "@angular/core";
   templateUrl: "./language-switcher.component.html",
 })
 export class LanguageSwitcherComponent {
+  display = "flex";
+  justifyContent = "justify-content";
   fontColor = "grey";
   textDecoration = "none";
   listStyle = "none";
-  marginLeft = "55vw";
 
   localesList = [
     { code: "en-US", label: "🇬🇧 English" },
