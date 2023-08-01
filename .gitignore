@@ -32,3 +32,4 @@ testem.log
 /typings
 
 /.angular
+.DS_Store

@@ -2,7 +2,7 @@ import { BrowserModule } from "@angular/platform-browser";
 import { NgModule } from "@angular/core";
 
 import { AppComponent } from "./app.component";
-import { LanguageSwitcher } from "./language-switcher/language-switcher.component";
+import { LanguageSwitcherComponent } from "./language-switcher/language-switcher.component";
 import { HelloWorldComponent } from "./hello-world/hello-world.component";
 import { HelloWorldTemplateComponent } from "./hello-world-template.component";
 import { HelloWorldNgIfComponent } from "./hello-world-ngif/hello-world-ngif.component";
@@ -13,7 +13,7 @@ import { HelloWorldBindingsComponent } from "./hello-world-bindings/hello-world-
 @NgModule({
   declarations: [
     AppComponent,
-    LanguageSwitcher,
+    LanguageSwitcherComponent,
     HelloWorldComponent,
     HelloWorldTemplateComponent,
     HelloWorldNgIfComponent,

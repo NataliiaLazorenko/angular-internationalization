@@ -4,11 +4,11 @@ import { Component } from "@angular/core";
   selector: "language-switcher",
   templateUrl: "./language-switcher.component.html",
 })
-export class LanguageSwitcher {
+export class LanguageSwitcherComponent {
   fontColor = "grey";
   textDecoration = "none";
   listStyle = "none";
-  float = "right";
+  marginLeft = "55vw";
 
   localesList = [
     { code: "en-US", label: "🇬🇧 English" },
